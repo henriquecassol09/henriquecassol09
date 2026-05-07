@@ -9,12 +9,11 @@ Me chamo Henrique Cassol e atualmente estou terminando o ensino medio tecnico, t
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://docs.spring.io/spring-boot/documentation.html)
 
+## Estatísticas do GitHub  
 
-## Estatísticas do GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquecassol09&show_icons=true&theme=tokyonight&cache_seconds=1800)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquecassol09&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecassol09&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecassol09&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
