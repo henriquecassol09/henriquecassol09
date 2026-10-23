@@ -34,9 +34,14 @@ Me chamo Henrique Cassol e atualmente estou concluindo o ensino médio técnico 
 <br/>
 
 <div align="center">
+### 📈 Histórico de Atividade
+
+<div align="center">
   <a href="https://github.com/henriquecassol09">
-    <img src="https://streak-stats.demolab.com/?user=henriquecassol09&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    <img src="https://ghchart.rshah.org/7aa2f7/henriquecassol09" alt="Gráfico de Contribuições do GitHub" width="100%" />
   </a>
+</div>
+
 </div>
 
 ---
