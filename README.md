@@ -33,8 +33,7 @@ Me chamo Henrique Cassol e atualmente estou concluindo o ensino médio técnico 
 
 <br/>
 
-<div align="center">
-### 📈 Histórico de Atividade
+### Histórico de Atividade
 
 <div align="center">
   <a href="https://github.com/henriquecassol09">
@@ -42,12 +41,3 @@ Me chamo Henrique Cassol e atualmente estou concluindo o ensino médio técnico 
   </a>
 </div>
 
-</div>
-
----
-
-### Histórico de Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriquecassol09&theme=tokyo-night" alt="Activity Graph" width="100%" />
-</div>
