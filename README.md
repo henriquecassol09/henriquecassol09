@@ -25,9 +25,31 @@ Me chamo Henrique Cassol e atualmente estou concluindo o ensino médio técnico 
 ### Estatísticas e Relatórios
 
 <div align="center">
+  <!-- Estatísticas Gerais e Linguagens -->
   <a href="https://github.com/henriquecassol09">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquecassol09&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecassol09&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Sequência de Contribuições (Streak) -->
+  <a href="https://github.com/henriquecassol09">
+    <img height="180em" src="https://streak-stats.demolab.com?user=henriquecassol09&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Gráfico de Atividade de Commits -->
+  <a href="https://github.com/henriquecassol09">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriquecassol09&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Troféus do Perfil -->
+  <a href="https://github.com/henriquecassol09">
+    <img src="https://github-profile-trophy.vercel.app/?username=henriquecassol09&theme=tokyonight&no-frame=false&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </div>
 
